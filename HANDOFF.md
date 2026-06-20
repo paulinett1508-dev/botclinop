@@ -1,6 +1,6 @@
 # HANDOFF — botclinop
 
-> Auto-gerado pelo aquecimento Sol em 2026-06-20.
+> Auto-gerado pelo aquecimento Sol em 2026-06-20. Webhook notifier ativo.
 
 ## O que e este projeto
 
