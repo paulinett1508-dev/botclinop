@@ -1,0 +1,28 @@
+# env
+.env
+.env.local
+.env*.local
+.vault
+
+# logs
+*.log
+npm-debug.log*
+
+# deps (adicionar conforme stack definida)
+node_modules/
+vendor/
+.venv/
+venv/
+
+# build
+dist/
+build/
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/settings.json
+.idea/

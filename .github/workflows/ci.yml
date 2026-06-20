@@ -1,0 +1,20 @@
+name: CI
+
+on:
+  push:
+    branches: [master, main]
+  pull_request:
+
+# Placeholder — atualizar quando stack for definida
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true
+      - name: Check structure
+        run: |
+          echo "Stack ainda nao definida."
+          echo "Substitua este job pelo runner adequado (Node/Python/PHP)."
+          ls -la
