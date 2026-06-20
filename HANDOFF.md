@@ -36,3 +36,4 @@ Dormante / Recen inicializado pelo Sol (2026-06-20). Nenhum codigo de aplicacao 
 ## Referencia no universo
 
 Ficha do planeta: https://github.com/paulinett1508-dev/theuniverse/blob/master/planets/botclinop.md
+# banho de loja
